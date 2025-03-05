@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.web.resources.static-path-pattern",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.web.resources.static-path-pattern'"
+  },
+  {
+    "name": "spring.resources.cache.cachecontrol.public",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.resources.cache.cachecontrol.public'"
+  }
+]}
